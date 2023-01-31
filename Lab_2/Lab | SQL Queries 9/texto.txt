@@ -1,0 +1,1 @@
+conectar python a sql 

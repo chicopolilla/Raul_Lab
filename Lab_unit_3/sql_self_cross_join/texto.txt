@@ -1,0 +1,1 @@
+usos avanzados de self joins para detectar. 

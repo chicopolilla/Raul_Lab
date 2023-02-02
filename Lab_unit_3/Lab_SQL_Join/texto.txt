@@ -1,0 +1,1 @@
+SQL join sobre la bd sakila

@@ -1,0 +1,1 @@
+subquerys complicados para obtener la data como queramos 
